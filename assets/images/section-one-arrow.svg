@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="17.3109244" cy="17.3109244" r="17.3109244"></circle>
+        <filter x="-144.4%" y="-109.8%" width="388.8%" height="388.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="12" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="14.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0421761775 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-8" transform="translate(-170.000000, -456.000000)">
+            <g id="Group-3" transform="translate(20.000000, 121.000000)">
+                <g id="Group-21" transform="translate(78.000000, 302.000000)">
+                    <g id="Group-20">
+                        <g id="Group-2" transform="translate(73.000000, 34.000000)">
+                            <g id="Rectangle-1-copy">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Mask">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                                    <use stroke="#38568C" stroke-width="1" xlink:href="#path-1"></use>
+                                </g>
+                            </g>
+                            <g id="download-arrow" transform="translate(14.000000, 12.000000)" fill="#38568C">
+                                <path d="M7.02143029,6.07181719 C7.24937796,5.86793425 7.60831527,5.86793425 7.83626294,6.07181719 C8.05457902,6.27512743 8.05457902,6.59756028 7.83626294,6.79857969 L4.42025845,9.8476605 C4.31495305,9.9415841 4.16662654,10 4.00353158,10 C3.84043663,10 3.69532065,9.9415841 3.58744683,9.8476605 L0.171442331,6.79857969 C-0.0571474436,6.59756028 -0.0571474436,6.27512743 0.171442331,6.07181719 C0.399389999,5.86793425 0.758327314,5.86793425 0.986274982,6.07181719 L3.42435187,8.25496821 L3.42435187,0.510280053 C3.42435187,0.22621843 3.68504695,0 4.00353158,0 C4.32201621,0 4.5730797,0.22621843 4.5730797,0.510280053 L4.5730797,8.2526774 L7.02143029,6.07181719 Z" id="Fill-1"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

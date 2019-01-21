@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="331px" height="52px" viewBox="0 0 331 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="53.2137784%" y1="0%" x2="53.2137784%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#9C82FF" offset="0%"></stop>
+            <stop stop-color="#4B26D5" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="35.7969 15.6648 44.0789 15.6648 44.0789 7.3818 36.1679 7.3818 22.5609 0.5788 8.9529 7.3818 0.6709 7.3818 0.6709 15.6648 8.9529 15.6648 35.7969 29.0858 44.0789 29.0858 44.0789 20.8038 36.1679 20.8038 17.6069 11.5238 22.5609 9.0468"></polygon>
+        <filter x="-106.0%" y="-91.2%" width="311.9%" height="422.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0797384511 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-4" points="9.3242 20.8039 0.6712 20.8039 0.6712 29.0859 8.9532 29.0859 27.5142 38.3669 22.5602 40.8439 9.3242 34.2259 0.6712 34.2259 0.6712 42.5079 8.9532 42.5079 22.5602 49.3109 36.1672 42.5079 44.0792 42.5079 44.0792 34.2259 36.1672 34.2259"></polygon>
+        <filter x="-106.0%" y="-91.2%" width="311.9%" height="422.7%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0797384511 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, 2.000000)">
+            <g>
+                <polygon id="Fill-1" fill="#FFFFFF" points="69.6992 10.6721 75.4382 7.3581 87.9542 7.3581 93.6932 10.6721 93.6932 17.2521 86.7672 17.2521 86.7672 13.2941 76.6252 13.2941 76.6252 21.5551 87.9542 21.5551 93.6932 24.8701 93.6932 39.1681 87.9542 42.4821 74.9432 42.4821 69.2042 39.1681 69.2042 32.5881 76.1312 32.5881 76.1312 36.5461 86.7672 36.5461 86.7672 27.9871 75.4382 27.9871 69.6992 24.6721"></polygon>
+                <polygon id="Fill-2" fill="#FFFFFF" points="118.3784 42.2351 111.4524 42.2351 111.4524 13.5411 102.1024 13.5411 102.1024 7.6051 127.7284 7.6051 127.7284 13.5411 118.3784 13.5411"></polygon>
+                <path d="M143.063,23.238 L153.7,23.238 L153.7,13.541 L143.063,13.541 L143.063,23.238 Z M154.789,42.235 L147.368,29.175 L143.063,29.175 L143.063,42.235 L136.137,42.235 L136.137,7.605 L154.887,7.605 L160.626,10.92 L160.626,25.86 L154.887,29.175 L162.407,42.235 L154.789,42.235 Z" id="Fill-3" fill="#FFFFFF"></path>
+                <path d="M178.929,36.546 L192.039,36.546 L192.039,13.295 L178.929,13.295 L178.929,36.546 Z M193.227,42.482 L177.742,42.482 L172.003,39.168 L172.003,10.672 L177.742,7.358 L193.227,7.358 L198.965,10.672 L198.965,39.168 L193.227,42.482 Z" id="Fill-4" fill="#FFFFFF"></path>
+                <polygon id="Fill-5" fill="#FFFFFF" points="217.2681 42.2351 210.3421 42.2351 210.3421 7.6051 216.8231 7.6051 231.7631 30.0151 231.8621 30.0151 231.8621 7.6051 238.7891 7.6051 238.7891 42.2351 232.3081 42.2351 217.3671 19.8241 217.2681 19.8241"></polygon>
+                <polygon id="Fill-6" fill="#FFFFFF" points="262.5337 24.178 275.1487 24.178 275.1487 39.168 269.4097 42.482 255.4097 42.482 249.6707 39.168 249.6707 10.672 255.4097 7.358 269.4097 7.358 275.1487 10.672 275.1487 17.746 268.2227 17.746 268.2227 13.294 256.5967 13.294 256.5967 36.546 268.2227 36.546 268.2227 30.115 262.5337 30.115"></polygon>
+                <polygon id="Fill-7" fill="#FFFFFF" points="286.031 42.235 292.957 42.235 292.957 7.605 286.031 7.605"></polygon>
+                <path d="M311.261,23.238 L321.898,23.238 L321.898,13.541 L311.261,13.541 L311.261,23.238 Z M322.986,42.235 L315.565,29.175 L311.261,29.175 L311.261,42.235 L304.335,42.235 L304.335,7.605 L323.085,7.605 L328.824,10.92 L328.824,25.86 L323.085,29.175 L330.604,42.235 L322.986,42.235 Z" id="Fill-8" fill="#FFFFFF"></path>
+                <g id="Fill-9">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <g id="Fill-10">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
