@@ -100,7 +100,8 @@ header {
   #mobile-nav.active {
     left: 0; }
 
-.show-desktop {
+.show-desktop,
+.show-tablet {
   display: none; }
 
 main section {
@@ -127,7 +128,8 @@ main section {
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        margin-top: 32px; }
+        margin-top: 32px;
+        cursor: pointer; }
         main section#section-one .left #find-out-how-we-work span {
           font-family: 'Avenir';
           font-size: 16px;
@@ -265,6 +267,8 @@ footer {
           outline: none;
           padding-left: 10px;
           margin-top: 16px; }
+          #strongir-form #form-wrapper #fields-btn-wrapper .input-wrapper input:focus {
+            border-color: #3C3C3C; }
           #strongir-form #form-wrapper #fields-btn-wrapper .input-wrapper input.error {
             border-color: red; }
         #strongir-form #form-wrapper #fields-btn-wrapper .input-wrapper .input-validation-message {
@@ -307,7 +311,25 @@ footer {
   100% {
     transform: translatey(0px); } }
 
+.animation-float-minus {
+  transform: translatey(0px);
+  animation: floatminus 6s ease-in-out infinite; }
+
+.animation-float-plus {
+  transform: translatey(0px);
+  animation: floatplus 6s ease-in-out infinite; }
+
+.animation-delay-1s {
+  animation-delay: 1s; }
+
+.animation-delay-2s {
+  animation-delay: 2s; }
+
 @media only screen and (min-width: 768px) {
+  .show-tablet {
+    display: block; }
+  .circle-icon {
+    position: absolute; }
   header {
     justify-content: space-between;
     padding-top: 34px; }
@@ -389,6 +411,48 @@ footer {
     padding-top: 150px; }
     main section#section-three p, main section#section-four p, main section#section-five p, main section#section-six p, main section#section-seven p, main section#section-eight p {
       max-width: 600px; }
+  main section#section-three .left #section-3-dot-1 {
+    top: 300px;
+    left: 350px; }
+  main section#section-three .left #section-3-dot-2 {
+    top: 0px;
+    left: 260px; }
+  main section#section-four .right #sec-4-icon-1 {
+    top: 300px;
+    left: 0px; }
+  main section#section-four .right #sec-4-icon-2 {
+    top: 0px;
+    left: 380px; }
+  main section#section-five .left #section-5-dot-1 {
+    top: 300px;
+    left: 350px; }
+  main section#section-five .left #section-5-dot-2 {
+    top: 30px;
+    left: 10px; }
+  main section#section-six .right #section-6-dot-1 {
+    top: 0px;
+    left: -30px; }
+  main section#section-six .right #section-6-dot-2 {
+    top: 440px;
+    left: 450px; }
+  main section#section-seven .left #section-7-icon-1 {
+    top: 40px;
+    left: 380px; }
+  main section#section-seven .left #section-7-icon-2 {
+    top: 200px;
+    left: 140px; }
+  main section#section-seven .left #section-7-icon-3 {
+    left: 130px;
+    top: 80px; }
+  main section#section-seven .left #section-7-icon-4 {
+    top: 200px;
+    left: 260px; }
+  main section#section-seven .left #section-7-icon-5 {
+    top: 60px;
+    left: 240px; }
+  main section#section-eight .right #section-8-icon-1 {
+    left: 0px;
+    top: -10px; }
   main section#section-nine {
     margin-top: 150px;
     padding: 100px 20px; }
@@ -399,12 +463,6 @@ footer {
 @media only screen and (min-width: 1250px) {
   .show-desktop {
     display: block; }
-  .animation-float-minus {
-    transform: translatey(0px);
-    animation: floatminus 6s ease-in-out infinite; }
-  .animation-float-plus {
-    transform: translatey(0px);
-    animation: floatplus 6s ease-in-out infinite; }
   h1 {
     font-size: 38px;
     line-height: 48px; }
