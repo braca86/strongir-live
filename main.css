@@ -279,15 +279,6 @@ footer {
           font-size: 14px; }
     #strongir-form #form-wrapper #tnx-message {
       padding-bottom: 60px; }
-    #strongir-form #form-wrapper .warning-messages-wrapper {
-      position: absolute;
-      bottom: 40px;
-      left: 0;
-      right: 0; }
-      #strongir-form #form-wrapper .warning-messages-wrapper .warning-message {
-        color: red;
-        font-size: 16px;
-        font-family: 'Avenir'; }
     #strongir-form #form-wrapper button {
       width: 100%;
       max-width: 377px;
